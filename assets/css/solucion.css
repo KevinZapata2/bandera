@@ -1,0 +1,58 @@
+body {
+    background-color: white;
+}
+section {
+    width: 300px;
+    height: 300px;
+  
+    margin: 10px;
+}
+.rojo1 {
+    background-color: RGBA(186,12,47,255);
+    position: relative;
+    width: 200px;
+    height: 230px;
+    top: -10px;
+    left: -18px;
+    
+}
+.rojo2 {
+    background-color: RGBA(186,12,47,255);
+    position: relative;
+    width: 200px;
+    height: 230px;
+    top: 73px;
+    left: -18px;
+}
+.rojo3 {
+    background-color: RGBA(186,12,47,255);
+    position: relative;
+    width: 450px;
+    height: 230px;
+    top: -494px;
+    left: 300px;
+    }
+.rojo4 {
+    background-color: RGBA(186,12,47,255);
+    position: relative;
+    width: 450px;
+    height: 230px;
+    top: -412px;
+    left: 300px;
+}
+.rojo5 {
+    background-color: rgba(0,32,91,255);
+    position: relative;
+    width: 770px;
+    height: 50px;
+    top: -725px;
+    left: -18px;
+}
+.rojo6 {
+    background-color: rgba(0,32,91,255);
+    position: relative;
+    width: 50px;
+    height:560px;
+    top: -1040px;
+    left: 212px;
+}

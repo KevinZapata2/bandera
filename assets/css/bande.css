@@ -1,0 +1,45 @@
+body {
+    background-color: white;
+}
+section {
+    
+        width: 300px;
+        height: 300px;
+        margin: 10px;
+    
+}
+.bande {
+    background-color: rgba(0,120,140,255);
+    position: absolute;
+    left: -10px;
+    top: -10px;
+    width: 950px;
+    height:200px;
+}
+.bande1 {
+    background-color: rgba(255,200,40,255);
+    position: absolute;
+    left: -10px;
+    top: 190px;
+    width: 950px;
+    height:200px;
+}
+.bande2 {
+    background-color: rgba(0,120,140,255);
+    position: absolute;
+    left: -10px;
+    top: 390px;
+    width: 950px;
+    height:200px;
+}
+.bande3 {
+    width: 0; 
+    height: 0; 
+    border-left: 400px solid #0a0a0a;
+    border-top: 300px solid transparent;
+    border-bottom: 295px solid transparent; 
+    z-index: 1;
+    position: absolute;
+    top: -8px;
+    left: -10px;
+}
